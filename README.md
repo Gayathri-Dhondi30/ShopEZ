@@ -1,12 +1,12 @@
-# 🛍️ ShopEZ – MERN E-Commerce Application
+# ShopEZ – MERN E-Commerce Application
 
 ShopEZ is a full-stack E-Commerce web application built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. It features a modern dark brown luxury UI, secure JWT authentication, product management, shopping cart, and an admin dashboard for monitoring user activity.
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👤 User
+###  User
 - User Registration & Login
 - JWT Authentication
 - Browse Products
@@ -17,7 +17,7 @@ ShopEZ is a full-stack E-Commerce web application built using the **MERN Stack (
 - Place Orders
 - View Order History
 
-### 👨‍💼 Admin
+###  Admin
 - Admin Login
 - Dashboard Overview
 - Product Management (Add, Edit, Delete)
@@ -29,7 +29,7 @@ ShopEZ is a full-stack E-Commerce web application built using the **MERN Stack (
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -51,7 +51,7 @@ ShopEZ is a full-stack E-Commerce web application built using the **MERN Stack (
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ShopEZ/
@@ -80,7 +80,7 @@ ShopEZ/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Clone Repository
 
@@ -105,7 +105,7 @@ npm install
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ### Start Backend
 
@@ -123,7 +123,7 @@ npm run dev
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file inside the **backend** folder.
 
@@ -135,7 +135,7 @@ JWT_SECRET=Your_JWT_Secret
 
 ---
 
-## 📌 Main Modules
+##  Main Modules
 
 - Authentication
 - Product Management
@@ -147,7 +147,7 @@ JWT_SECRET=Your_JWT_Secret
 
 ---
 
-## 🎨 Theme
+##  Theme
 
 - Premium Dark Brown Luxury UI
 - Responsive Design
